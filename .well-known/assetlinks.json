@@ -1,0 +1,10 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "via.driver.core.debug",
+    "sha256_cert_fingerprints": [
+      "A1:59:85:FA:B4:12:EB:F9:2D:40:FD:89:31:0B:34:53:86:A4:BE:AD:C5:85:26:84:17:EC:5B:17:68:09:2F:81"
+    ]
+  }
+}]
