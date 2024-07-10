@@ -1,0 +1,213 @@
+body {
+	color: rgb(0, 0, 0); background-color: rgb(255, 255, 255);
+}
+a:link {
+	color: rgb(0, 0, 0); text-decoration: none;
+}
+a:visited {
+	color: rgb(0, 0, 0); text-decoration: none;
+}
+a:hover {
+	color: rgb(0, 0, 0); text-decoration: underline;
+}
+.ahref {
+	text-decoration: underline;
+}
+td {
+	color: rgb(0, 0, 0); font-family: Verdana, Helvetica, Arial; font-size: 11px;
+}
+input {
+	color: rgb(0, 0, 0); font-family: Verdana, Helvetica, Arial; font-size: 10pt; background-color: rgb(240, 240, 240);
+}
+.input {
+	color: rgb(0, 0, 0); font-family: Verdana, Helvetica, Arial; font-size: 10pt; font-weight: bold; background-color: rgb(240, 240, 240);
+}
+textarea {
+	color: rgb(0, 0, 0); font-family: Verdana, Helvetica, Arial; font-size: 9pt; background-color: rgb(240, 240, 240);
+}
+select {
+	color: rgb(0, 0, 0); font-family: Verdana, Helvetica, Arial; font-size: 7pt; background-color: rgb(240, 240, 240);
+}
+.selecthtml {
+	color: rgb(0, 0, 0); font-family: Verdana, Helvetica, Arial; font-size: 12px; background-color: rgb(255, 255, 255);
+}
+.font1 {
+	font-family: Verdana, Helvetica, Arial; font-size: 10px;
+}
+.font2 {
+	font-family: Verdana, Helvetica, Arial; font-size: 13px;
+}
+.font3 {
+	font-family: Verdana, Helvetica, Arial; font-size: 16px;
+}
+.menusep {
+	font-family: Verdana, Helvetica, Arial; font-size: 10px; font-weight: bold;
+}
+.windowbg {
+	color: rgb(0, 0, 0); font-family: Verdana; font-size: 11px; background-color: rgb(230, 230, 230);
+}
+.windowbg2 {
+	color: rgb(0, 0, 0); font-family: Verdana; font-size: 11px; background-color: rgb(240, 240, 240);
+}
+.titlebg {
+	color: rgb(0, 0, 0); font-size: 13px; font-weight: bold; background-color: rgb(255, 255, 255);
+}
+.catbg {
+	color: rgb(0, 0, 0); font-size: 16px; font-weight: bold; background-color: rgb(255, 255, 255);
+}
+.bordercolor {
+	background-color: rgb(255, 255, 255);
+}
+.imgcatbg {
+	color: rgb(0, 0, 0); font-size: 12px; font-style: normal; font-weight: normal;
+}
+.imgcatbg a:link {
+	color: rgb(0, 0, 0); font-size: 12px; font-style: normal; font-weight: normal;
+}
+.imgcatbg a:visited {
+	color: rgb(0, 0, 0); font-size: 12px; font-style: normal; font-weight: normal;
+}
+.imgcatbgm a:link {
+	color: rgb(255, 126, 0); font-size: 12px; font-style: normal; font-weight: normal;
+}
+.imgcatbgm a:visited {
+	color: rgb(255, 126, 0); font-size: 12px; font-style: normal; font-weight: normal;
+}
+.imgpages {
+	color: rgb(0, 0, 0); font-size: 12px; font-style: normal; font-weight: normal; white-space: nowrap;
+}
+.imgheader .imgpages {
+	color: rgb(0, 0, 0); font-size: 12px; font-style: normal; font-weight: normal; white-space: nowrap;
+}
+.imgpages a:link {
+	color: rgb(0, 0, 0); font-size: 12px; font-style: normal; font-weight: normal; white-space: nowrap;
+}
+.imgheader .imgpages a:link {
+	color: rgb(0, 0, 0); font-size: 12px; font-style: normal; font-weight: normal; white-space: nowrap;
+}
+.imgpages a:visited {
+	color: rgb(0, 0, 0); font-size: 12px; font-style: normal; font-weight: normal; white-space: nowrap;
+}
+.imgheader .imgpages a:visited {
+	color: rgb(0, 0, 0); font-size: 12px; font-style: normal; font-weight: normal; white-space: nowrap;
+}
+.imgpagesc a:link {
+	color: rgb(255, 126, 0); font-size: 12px; font-style: normal; font-weight: bold; white-space: nowrap;
+}
+.imgheader .imgpagesc a:link {
+	color: rgb(255, 126, 0); font-size: 12px; font-style: normal; font-weight: bold; white-space: nowrap;
+}
+.imgpagesc a:visited {
+	color: rgb(255, 126, 0); font-size: 12px; font-style: normal; font-weight: bold; white-space: nowrap;
+}
+.imgheader .imgpagesc a:visited {
+	color: rgb(255, 126, 0); font-size: 12px; font-style: normal; font-weight: bold; white-space: nowrap;
+}
+.imgwindowbg {
+	color: rgb(0, 0, 0); font-size: 10px; font-style: normal; font-weight: normal;
+}
+.imgwindowbg2 a:link {
+	color: rgb(255, 126, 0); font-size: 10px; font-style: normal; font-weight: normal;
+}
+.imgwindowbg2 a:visited {
+	color: rgb(255, 126, 0); font-size: 10px; font-style: normal; font-weight: normal;
+}
+.imgmenu0 a:link {
+	color: rgb(255, 126, 0); font-size: 19px; font-style: normal; font-weight: normal;
+}
+.imgmenu0 a:visited {
+	color: rgb(255, 126, 0); font-size: 19px; font-style: normal; font-weight: normal;
+}
+.imgmenu a:link {
+	color: rgb(0, 0, 0); font-size: 15px; font-style: normal; font-weight: bold; text-decoration: underline;
+}
+.imgmenu a:visited {
+	color: rgb(0, 0, 0); font-size: 15px; font-style: normal; font-weight: bold; text-decoration: underline;
+}
+.imgmenu2 {
+	color: rgb(102, 102, 102); font-size: 12px; font-style: normal; font-weight: normal;
+}
+.imgmenu2 a:link {
+	color: rgb(102, 102, 102); font-size: 12px; font-style: normal; font-weight: normal; text-decoration: underline;
+}
+.imgmenu2 a:visited {
+	color: rgb(102, 102, 102); font-size: 12px; font-style: normal; font-weight: normal; text-decoration: underline;
+}
+.imgmenu2n a:link {
+	color: rgb(255, 126, 0); font-size: 12px; font-style: normal; font-weight: bold; text-decoration: underline;
+}
+.imgmenu2n a:visited {
+	color: rgb(255, 126, 0); font-size: 12px; font-style: normal; font-weight: bold; text-decoration: underline;
+}
+.imgheader {
+	color: rgb(0, 0, 0); font-size: 17px; font-style: normal; font-weight: bold;
+}
+.imgheader a:link {
+	color: rgb(0, 0, 0); font-size: 17px; font-style: normal; font-weight: bold;
+}
+.imgheader a:visited {
+	color: rgb(0, 0, 0); font-size: 17px; font-style: normal; font-weight: bold;
+}
+.imgheaderdesc {
+	color: rgb(0, 0, 0); font-size: 10px; font-style: normal; font-weight: bold;
+}
+.imgboards a:link {
+	color: rgb(0, 0, 0); font-size: 9px; font-style: normal; font-weight: normal;
+}
+.imgboards a:visited {
+	color: rgb(0, 0, 0); font-size: 9px; font-style: normal; font-weight: normal;
+}
+.imgboardc a:link {
+	color: rgb(255, 126, 0); font-size: 9px; font-style: normal; font-weight: normal;
+}
+.imgboardc a:visited {
+	color: rgb(255, 126, 0); font-size: 9px; font-style: normal; font-weight: normal;
+}
+.imgcopy {
+	color: rgb(102, 102, 102); font-size: 12px; font-style: normal; font-weight: normal;
+}
+.imgcopy a:link {
+	color: rgb(102, 102, 102); font-size: 12px; font-style: normal; font-weight: normal;
+}
+.imgcopy a:visited {
+	color: rgb(102, 102, 102); font-size: 12px; font-style: normal; font-weight: normal;
+}
+.imgnewsheader {
+	color: rgb(0, 0, 0); font-size: 21px; font-style: normal; font-weight: normal;
+}
+.quote {
+	color: rgb(0, 0, 0); font-family: Verdana, Helvetica, Arial; font-size: 10px; border-left-color: gray; border-left-width: 4px; border-left-style: solid; background-color: rgb(207, 207, 207);
+}
+.quote .quote {
+	color: rgb(0, 0, 0); font-family: Verdana, Helvetica, Arial; font-size: 10px; border-left-color: gray; border-left-width: 4px; border-left-style: solid; background-color: rgb(192, 192, 192);
+}
+.quote .quote .quote {
+	color: rgb(0, 0, 0); font-family: Verdana, Helvetica, Arial; font-size: 10px; border-left-color: gray; border-left-width: 4px; border-left-style: solid; background-color: rgb(207, 207, 207);
+}
+.quote .quote .quote .quote {
+	color: rgb(0, 0, 0); font-family: Verdana, Helvetica, Arial; font-size: 10px; border-left-color: gray; border-left-width: 4px; border-left-style: solid; background-color: rgb(192, 192, 192);
+}
+.code {
+	color: rgb(0, 0, 0); font-family: Verdana, Helvetica, Arial; font-size: 10px; background-color: rgb(194, 193, 184);
+}
+.table tr:nth-child(2n+1) {
+	background-color: rgb(230, 230, 230);
+}
+.table tr:nth-child(2n) {
+	background-color: rgb(216, 216, 216);
+}
+.bgdiv1 {
+	padding: 0px; border: 0px currentColor; height: 3px; margin-top: 6px; margin-bottom: 6px; background-color: rgb(255, 126, 0);
+}
+.bgdiv2 {
+	padding: 0px; border: 0px currentColor; width: 160px; height: 1px; background-color: rgb(255, 126, 0);
+}
+.bgdiv3 {
+	padding: 0px; border: 0px currentColor; height: 2px; background-color: rgb(255, 255, 255);
+}
+.bgdivb {
+	border-bottom-color: rgb(255, 255, 255); border-bottom-width: 4px; border-bottom-style: solid;
+}
+.bgdivrb {
+	border-right-color: rgb(255, 255, 255); border-bottom-color: rgb(255, 255, 255); border-right-width: 4px; border-bottom-width: 4px; border-right-style: solid; border-bottom-style: solid;
+}
